@@ -13,7 +13,7 @@
 * type: tutorial
 * description: Intro to our tutorial cards
 * tags: easy
-* position: 2 0
+* position: 2 3
 
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/interface/activity1 
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
